@@ -1,0 +1,3 @@
+MX(@, mxdomain.qq.com., 默认, 120, 10)
+CNAME(mail, mail.qq.com., 默认, 120, 0)
+CNAME(qqmail5ec00c38, mail.qq.com., 默认, 120, 0)
